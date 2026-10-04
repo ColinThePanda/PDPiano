@@ -1,0 +1,13 @@
+.{
+    .name = .PdPiano,
+    .version = "0.0.1",
+    .dependencies = .{
+        .raylib_zig = .{
+            .url = "git+https://github.com/raylib-zig/raylib-zig?ref=devel#8758f4cd3a5ae0df6941c4715257223d34c5ad3e",
+            .hash = "raylib_zig-6.0.0-KE8RECZ8BQDm-txuospkpZHbJ6DNpacUF7D88RWQ_qAe",
+        },
+    },
+    .minimum_zig_version = "0.17.0-dev.269+ebff43698",
+    .paths = .{""},
+    .fingerprint = 0x3c87973060eefb26,
+}
